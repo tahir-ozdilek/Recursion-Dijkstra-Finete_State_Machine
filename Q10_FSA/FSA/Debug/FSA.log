@@ -1,0 +1,4 @@
+﻿  Q10.cpp
+c:\users\storm\documents\visual studio 2015\projects\fsa\fsa\q10.cpp(7): warning C4018: '<': signed/unsigned mismatch
+  FSA.vcxproj -> c:\users\storm\documents\visual studio 2015\Projects\FSA\Debug\FSA.exe
+  FSA.vcxproj -> c:\users\storm\documents\visual studio 2015\Projects\FSA\Debug\FSA.pdb (Partial PDB)

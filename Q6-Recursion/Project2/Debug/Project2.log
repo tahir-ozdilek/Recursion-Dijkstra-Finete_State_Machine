@@ -1,0 +1,6 @@
+﻿  Q6.cpp
+c:\users\storm\documents\visual studio 2015\projects\q6-rec\project2\q6.cpp(22): warning C4018: '>': signed/unsigned mismatch
+  main.cpp
+  Generating Code...
+  Project2.vcxproj -> C:\Users\storm\Documents\Visual Studio 2015\Projects\Q6-Rec\Debug\Project2.exe
+  Project2.vcxproj -> C:\Users\storm\Documents\Visual Studio 2015\Projects\Q6-Rec\Debug\Project2.pdb (Partial PDB)
